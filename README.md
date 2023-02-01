@@ -1,4 +1,4 @@
-![](http://i.imgur.com/OUkLi.gif)
+![Header](https://github.com/whiteblackswan/whiteblackswan/blob/main/assets/image-asset.gif)
 
 
 About me
