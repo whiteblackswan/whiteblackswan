@@ -11,7 +11,8 @@
 
 
 ### My Projects
-[![Fainafit Badge](https://img.shields.io/badge/-fainafit-red?style=flat&logo=fainafit&logoColor=white)](https://whiteblackswan.github.io/fainafit/)
+[![Fainafit Badge](https://img.shields.io/badge/-Fainafit-red?style=flat&logo=fainafit&logoColor=white)](https://whiteblackswan.github.io/fainafit/)
+[![Uber Badge](https://img.shields.io/badge/-Uber-red?style=flat&logo=uber&logoColor=white)](https://whiteblackswan.github.io/)
 
 
 
