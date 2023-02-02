@@ -42,7 +42,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/whiteblackswan-readme-stats)
 
 
 
