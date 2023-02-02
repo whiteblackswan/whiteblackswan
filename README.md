@@ -31,6 +31,9 @@ My Projects
 <br />
 
 ### Follow Me
+<!-- - Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
+- Website - [James Q Quick](https://jamesqquick.com) -->
+
 
 
 
