@@ -14,7 +14,7 @@
 [![Fainafit Badge](https://img.shields.io/badge/-Fainafit-red?style=flat&logo=fainafit&logoColor=white)](https://whiteblackswan.github.io/fainafit/)
 [![burge Badge](https://img.shields.io/badge/-Burge-yellow?style=flat&logo=burge&logoColor=white)](https://whiteblackswan.github.io/burger/)
 [![uber Badge](https://img.shields.io/badge/-Uber-green?style=flat&logo=uber&logoColor=white)](https://whiteblackswan.github.io/)
-[![coffe Badge](https://img.shields.io/badge/-Coffe-brown?style=flat&logo=coffe&logoColor=white)](https://whiteblackswan.github.io/)
+[![coffe Badge](https://img.shields.io/badge/-Coffe-brown?style=flat&logo=coffe&logoColor=white)](https://whiteblackswan.github.io/coffe/)
 
 
 
