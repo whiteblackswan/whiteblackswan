@@ -30,9 +30,9 @@ My Projects
 <br />
 <br />
 
-### Follow Me
-<!-- - Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com) -->
+### How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sergey-lebed)
+
 
 
 
