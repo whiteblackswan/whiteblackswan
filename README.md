@@ -4,7 +4,7 @@
 ## I'm Sergey,<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> a front end web developer  based in Rishon Lezion [Israel].
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 😃 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I like to play football
 
