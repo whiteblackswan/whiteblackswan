@@ -9,7 +9,8 @@ My Projects
 
 
 Languages and Tools
-![Javascript](https://img.shields.io/badge/Javascript-#F7DF1E?style*for-the-badge&logo*Javascript)
+![Javascript]<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/[ICON SLUG].svg" />
 
 Follow Me
 
