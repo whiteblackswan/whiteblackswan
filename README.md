@@ -41,7 +41,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_gray_swan_?igshid=YmMyMTA2M2Y=)
 [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteblackswan&langs_count=8)](https://github.com/whiteblackswan)
+
 
 
 
