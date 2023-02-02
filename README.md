@@ -9,7 +9,7 @@ My Projects
 
 
 Languages and Tools
-![Javascript](/badge/-Javascript-ebeef0?style=for-the-badge&logo=javascript&logoColor=47C5FB)
+![Javascript](https://img.shields.io/badge/Javascript-#F7DF1E?style*for-the-badge&logo*Javascript)
 
 Follow Me
 
