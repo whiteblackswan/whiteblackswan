@@ -11,6 +11,7 @@
 
 
 ### My Projects
+[![Fainafit Badge](https://img.shields.io/badge/-fainafit-red?style=flat&logo=fainafit&logoColor=white)](https://whiteblackswan.github.io/fainafit/)
 
 
 
