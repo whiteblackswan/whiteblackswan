@@ -42,7 +42,9 @@
 
 
 
+<h2 align="center">Look the snake is eating my contributions..🐍</h2>
 
+![snake gif](https://github.com/whiteblackswan-droid/whiteblackswan-droid/blob/output/github-contribution-grid-snake.gif)
 
 
 
