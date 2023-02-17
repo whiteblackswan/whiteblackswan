@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 😃 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about web3
-- ⚡ Fun fact: I like to play football
+- ⚡ Always have a plan B
 -  :mailbox: How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:swansergey7@gmail.com)
 
 ---
