@@ -3,8 +3,7 @@
 
 ## I'm Sergey,<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> a frontend developer  based in Rishon Lezion [Israel].
 
-- 🌱 I’m currently learning everything 🤣
-- 😃 I’m looking to collaborate with other content creators
+- 🌱 I'm ready to experiment and make everything unique!
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Always have a plan B
 -  :mailbox: How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:swansergey7@gmail.com)
