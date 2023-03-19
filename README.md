@@ -6,7 +6,7 @@
 
 - 🌱 I'm ready to experiment and make everything unique!     
 - 🥅 2023 Goals: Learn more about ReactJs, Tailwindcss, MongoDB, Web3.
-- ⚡ Always have a plan B
+- ⚡ Never stop learning because life never stop teaching.
 -  :mailbox: Reach me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:swansergey7@gmail.com)
 
 ---
