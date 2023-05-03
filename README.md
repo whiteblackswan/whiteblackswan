@@ -48,6 +48,7 @@
 
 
 ### <h3 align="left">Connect with me:</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sergey-lebed)
 [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/serlebed)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_gray_swan_?igshid=YmMyMTA2M2Y=)
 [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/whiteblackswan)
