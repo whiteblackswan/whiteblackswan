@@ -13,7 +13,7 @@
 
 
 ### All of my projects are available at
-[![agency Badge](https://img.shields.io/badge/-Fainafit-grey?style=flat&logo=agency&logoColor=white)](https://whiteblackswan.github.io/agency/)
+[![agency Badge](https://img.shields.io/badge/-Agency-grey?style=flat&logo=agency&logoColor=white)](https://whiteblackswan.github.io/agency/)
 <br>
 [![fainafit Badge](https://img.shields.io/badge/-Fainafit-red?style=flat&logo=fainafit&logoColor=white)](https://whiteblackswan.github.io/fainafit/)
 <br>
