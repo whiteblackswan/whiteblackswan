@@ -29,7 +29,7 @@
 
 
 
-### React
+### React Projects
 [![Memory Badge](https://img.shields.io/badge/-Memory_Game-violet?style=flat&logo=Memory&logoColor=white)](https://whimsical-sunburst-427cd4.netlify.app/)
 
 ---
