@@ -30,7 +30,7 @@
 
 
 ### React
-[![memory Badge](https://img.shields.io/badge/-memory-game-grey?style=flat&logo=memory-game&logoColor=green)](https://whimsical-sunburst-427cd4.netlify.app/)
+[![memory Badge](https://img.shields.io/badge/-memory-game-grey?style=flat&logo=memory&logoColor=green)](https://whimsical-sunburst-427cd4.netlify.app/)
 
 ---
 
