@@ -34,7 +34,9 @@
 
 ---
 
+[![Recipe Directory](https://img.shields.io/badge/-Recipe_Directory-violet?style=flat&logo=Recipe&logoColor=white)](https://gorgeous-frangipane-923b6a.netlify.app/)
 
+---
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
