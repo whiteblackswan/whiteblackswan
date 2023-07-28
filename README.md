@@ -32,7 +32,7 @@
 ### React Projects
 [![Memory Badge](https://img.shields.io/badge/-Memory_Game-violet?style=flat&logo=Memory&logoColor=white)](https://whimsical-sunburst-427cd4.netlify.app/)
 
-[![Recipe Directory](https://img.shields.io/badge/-Recipe_Directory-green?style=flat&logo=Recipe&logoColor=white)](https://gorgeous-frangipane-923b6a.netlify.app/)
+[![Recipe Directory](https://img.shields.io/badge/-Recipe_Directory-ivory?style=flat&logo=Recipe&logoColor=white)](https://gorgeous-frangipane-923b6a.netlify.app/)
 
 ---
 
