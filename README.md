@@ -34,7 +34,7 @@
 
 [![Recipe Directory](https://img.shields.io/badge/-Recipe_Directory-ivory?style=flat&logo=Recipe&logoColor=white)](https://gorgeous-frangipane-923b6a.netlify.app/)
 
-[![Finance Tracker Badge](https://img.shields.io/badge/-Finance-tracker-aqua?style=flat&logo=uber&logoColor=white)](https://finace-tracker-9338e.web.app/)
+[![finance tracker Badge](https://img.shields.io/badge/-Finance_tracker-violet?style=flat&logo=Memory&logoColor=white)](https://finace-tracker-9338e.web.app/)
 ---
 
 ### Languages and Tools:
