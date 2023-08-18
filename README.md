@@ -34,7 +34,7 @@
 
 [![Recipe Directory](https://img.shields.io/badge/-Recipe_Directory-ivory?style=flat&logo=Recipe&logoColor=white)](https://gorgeous-frangipane-923b6a.netlify.app/)
 
-[![Finance Tracker](https://img.shields.io/badge/-Recipe_Directory-ivory?style=flat&logo=Recipe&logoColor=black)](finace-tracker-9338e.web.app)
+[![Finance Tracker](https://img.shields.io/badge/-Finance_Tracker-ivory?style=flat&logo=Recipe&logoColor=green)](https://finace-tracker-9338e.web.app/)
 ---
 
 ### Languages and Tools:
