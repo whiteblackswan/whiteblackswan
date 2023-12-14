@@ -1,7 +1,7 @@
 ![Header](https://github.com/whiteblackswan/whiteblackswan/blob/main/assets/image-asset.gif)
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" style="max-width: 100%; display: inline-block; width: 30px;" />, I'm Sergey</h1>
-<h3 align="center">A passionate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> front-end developer.</h3>
+<h3 align="center">A passionate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frontend Developer.</h3>
 
 
 - 🌱 I'm ready to experiment and make everything unique!     
