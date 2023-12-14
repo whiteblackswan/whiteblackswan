@@ -11,24 +11,6 @@
 
 ---
 
-
-### All of my projects are available at
-[![agency Badge](https://img.shields.io/badge/-Agency-grey?style=flat&logo=agency&logoColor=white)](https://whiteblackswan.github.io/agency/)
-<br>
-[![fainafit Badge](https://img.shields.io/badge/-Fainafit-red?style=flat&logo=fainafit&logoColor=white)](https://whiteblackswan.github.io/fainafit/)
-<br>
-[![burge Badge](https://img.shields.io/badge/-Burge-yellow?style=flat&logo=burge&logoColor=white)](https://whiteblackswan.github.io/burger/)
-<br>
-[![polar Badge](https://img.shields.io/badge/-Polar-gold?style=flat&logo=polar&logoColor=white)](https://whiteblackswan.github.io/polar/)
-<br>
-[![coffe Badge](https://img.shields.io/badge/-Coffe-brown?style=flat&logo=coffe&logoColor=white)](https://whiteblackswan.github.io/coffe/)
-<br>
-[![uber Badge](https://img.shields.io/badge/-Uber-green?style=flat&logo=uber&logoColor=white)](https://whiteblackswan.github.io/)
-
----
-
-
-
 ### React Projects
 [![Memory Badge](https://img.shields.io/badge/-Memory_Game-violet?style=flat&logo=Memory&logoColor=white)](https://whimsical-sunburst-427cd4.netlify.app/)
 
