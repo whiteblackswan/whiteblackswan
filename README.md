@@ -18,7 +18,7 @@
 
 [![finance tracker Badge](https://img.shields.io/badge/-Finance_Tracker-aqua?style=flat&logo=Memory&logoColor=white)](https://finace-tracker-9338e.web.app/)
 
-
+[![Chill Strike](https://img.shields.io/badge/-strike-blue?style=flat&logo=telegram&logoColor=white)](https://venerable-lolly-baa931.netlify.app/)
 
 ---
 
