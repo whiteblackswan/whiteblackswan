@@ -18,9 +18,10 @@
 
 [![finance tracker Badge](https://img.shields.io/badge/-Finance_Tracker-aqua?style=flat&logo=Memory&logoColor=white)](https://finace-tracker-9338e.web.app/)
 
-[![Chill Strike](https://img.shields.io/badge/-strike-blue?style=flat&logo=telegram&logoColor=white)](https://venerable-lolly-baa931.netlify.app/)
-
 ---
+### Javascript Game
+[![Chill Strike](https://img.shields.io/badge/-Chill_Strike-aqua?style=flat&logo=Strike&logoColor=grey)](https://venerable-lolly-baa931.netlify.app/)
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
