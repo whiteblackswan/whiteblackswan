@@ -22,6 +22,7 @@
 ### Javascript Game
 [![Chill Strike](https://img.shields.io/badge/-Chill_Strike-blue?style=flat&logo=Strike&logoColor=grey)](https://venerable-lolly-baa931.netlify.app/)
 
+---
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
