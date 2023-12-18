@@ -18,7 +18,8 @@
 
 [![finance tracker Badge](https://img.shields.io/badge/-Finance_Tracker-aqua?style=flat&logo=Memory&logoColor=white)](https://finace-tracker-9338e.web.app/)
 
-[![Chill Strike](https://img.shields.io/badge/-Fainafit-red?style=flat&logo=fainafit&logoColor=white)](https://whiteblackswan.github.io/burger/)
+[![Strike](https://img.shields.io/badge/-Strike-red?style=flat&logo=fainafit&logoColor=white)](https://whiteblackswan.github.io/trike
+/)
 ---
 
 ### Languages and Tools:
