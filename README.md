@@ -17,6 +17,8 @@
 [![Recipes](https://img.shields.io/badge/-Recipe_Directory-buff?style=flat&logo=Recipe&logoColor=white)](https://poetic-concha-869c24.netlify.app/)
 
 [![finance tracker Badge](https://img.shields.io/badge/-Finance_Tracker-aqua?style=flat&logo=Memory&logoColor=white)](https://finace-tracker-9338e.web.app/)
+
+[![Chill Strike](https://img.shields.io/badge/-Strike-red?style=flat&logo=strike&logoColor=white)](https://github.com/whiteblackswan/Chill-Strike/)
 ---
 
 ### Languages and Tools:
