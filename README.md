@@ -20,7 +20,7 @@
 
 ---
 ### Javascript Game
-[![Crazy Elf](https://img.shields.io/badge/-Chill_Strike-blue?style=flat&logo=Strike&logoColor=grey)](https://venerable-lolly-baa931.netlify.app/)
+[![Crazy Elf](https://img.shields.io/badge/-Crazy_Elf-blue?style=flat&logo=Strike&logoColor=grey)](https://venerable-lolly-baa931.netlify.app/)
 
 ---
 
