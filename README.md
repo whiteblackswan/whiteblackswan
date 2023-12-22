@@ -16,11 +16,11 @@
 
 [![Recipes](https://img.shields.io/badge/-Recipe_Directory-buff?style=flat&logo=Recipe&logoColor=white)](https://poetic-concha-869c24.netlify.app/)
 
-[![finance tracker Badge](https://img.shields.io/badge/-Finance_Tracker-aqua?style=flat&logo=Memory&logoColor=white)](https://finace-tracker-9338e.web.app/)
+[![Finance Tracker Badge](https://img.shields.io/badge/-Finance_Tracker-aqua?style=flat&logo=Memory&logoColor=white)](https://finace-tracker-9338e.web.app/)
 
 ---
 ### Javascript Game
-[![Chill Strike](https://img.shields.io/badge/-Chill_Strike-blue?style=flat&logo=Strike&logoColor=grey)](https://venerable-lolly-baa931.netlify.app/)
+[![Crazy Elf](https://img.shields.io/badge/-Chill_Strike-blue?style=flat&logo=Strike&logoColor=grey)](https://venerable-lolly-baa931.netlify.app/)
 
 ---
 
